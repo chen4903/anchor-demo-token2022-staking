@@ -1,0 +1,2 @@
+- Tutorial: https://solana.com/developers/courses/token-extensions/token-extensions-onchain
+- There will be a unique staking pool for each token.
